@@ -1,3 +1,17 @@
+.facilidades__card {
+    width: 325px;
+}
+
 .texto-menor {
     font-size: 13px;
+}
+
+.texto-verde {
+    color: #DAFF01;
+    font-weight: 700;
+}
+
+.btn-purple {
+    background-color: #9353FF;
+    color: #fff;
 }
